@@ -1,10 +1,3 @@
-> Java Developer, GameServers Owner (6 years experience), Freelancer.
-> Introduced on C#, C++, PHP, Lua and Pawn.
+Owner - https://sucessoservers.com/
 
-**Other knowledges:**
-- MySQL;
-- Web/Game Hosting;
-- Cyber Security basics;
-- MongoDB;
-- PostgreSQL;
-- Terminal.
+Java & Lua Developer.
